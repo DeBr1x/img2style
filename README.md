@@ -11,7 +11,7 @@
 
 | Result Image |
 |--------------|
-| ![Result Image](images/outp2t.jpg) |
+| ![Result Image](images/outpu2t.jpg) |
 
 
 ## Requirements
