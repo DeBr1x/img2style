@@ -2,6 +2,18 @@
 
 `img2style` is an AI-based image style transfer program using TensorFlow and Keras. This program applies the artistic style of one image (style image) to another image (content image) using a convolutional neural network based on the VGG19 model.
 
+## Example
+| Content Image | Style Image |
+|---------------|-------------|
+| ![Content Image](path_to_content_image) | ![Style Image](path_to_style_image) |
+
+### Result
+
+| Result Image |
+|--------------|
+| ![Result Image](path_to_result_image) |
+
+
 ## Requirements
 
 - Python 3.6 or later
