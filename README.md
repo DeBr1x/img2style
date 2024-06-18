@@ -5,13 +5,13 @@
 ## Example
 | Content Image | Style Image |
 |---------------|-------------|
-| ![Content Image](path_to_content_image) | ![Style Image](path_to_style_image) |
+| ![Content Image](images/city.jpg) | ![Style Image](images/city.jpg) |
 
 ### Result
 
 | Result Image |
 |--------------|
-| ![Result Image](path_to_result_image) |
+| ![Result Image](images/city.jpg) |
 
 
 ## Requirements
